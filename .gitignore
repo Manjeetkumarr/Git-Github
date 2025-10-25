@@ -10,3 +10,5 @@ logs/
 # ignore all .log files in all directories except mylogs.log in the root directory
 mylogs.log 
 
+*.html
+
